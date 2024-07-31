@@ -2,7 +2,9 @@ Image Processing App using Python ,Tkinter and pillow
 -----------------------------------------------------
 Description
 ------------
-The Image Processing App is a simple Python application using Tkinter for the graphical user interface (GUI) and Pillow for image processing. This app allows users to load an image, apply various image processing operations (such as rotation, mirroring, black and white conversion, and sharpening), and save the processed image. The app also features interactive buttons with visual effects.
+The Image Processing App is a simple Python application using Tkinter for the graphical user interface (GUI) and Pillow for image processing.
+This app allows users to load an image, apply various image processing operations (such as rotation, mirroring, black and white conversion, and sharpening), and
+save the processed image. The app also features interactive buttons with visual effects.
 
 Features
 --------
