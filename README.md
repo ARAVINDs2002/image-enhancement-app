@@ -52,19 +52,7 @@ Open a terminal or command prompt, navigate to the directory containing the scri
 sh
 Copy code
 python image_processing_app.py
-Using the Application:
 
-Click "Load Image" to select and load an image file.
-Use the buttons to process the image as needed.
-Click "Revert" to revert to the original image.
-Click "Save Image" to save the processed image to a file.
-Code Explanation
-Class Definition: ImageApp class is defined to manage the application's GUI and functionality.
-Constructor (__init__ method): Initializes the application window, sets up the GUI components, and organizes buttons and frames.
-Button Creation: create_button method creates buttons with hover and click animations.
-Image Loading and Display: load_image and display_image methods handle loading and resizing images.
-Image Processing: process_image method applies different transformations to the image.
-Reverting and Saving Images: revert_image and save_image methods handle reverting to the original image and saving the processed image, respectively.
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 THANK YOU FOR USING MY SIMPLE APP FEEL FREE TO CONNECT ME ON LINKED IN OR EMAIL 
 LinkedIn:https://www.linkedin.com/in/aravind-s-77a668202/
