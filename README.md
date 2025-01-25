@@ -7,23 +7,23 @@ save the processed image. The app also features interactive buttons with visual 
 
 # Features
 
-Load Image: Allows the user to load an image file from their system.
+👉Load Image: Allows the user to load an image file from their system.
 
-Display Image: Resizes and displays the image within the app window.
+👉Display Image: Resizes and displays the image within the app window.
 
-Process Image: Apply transformations including:
-Rotate Left
-Rotate Right
-Mirror
-Convert to Black & White
-Sharpen
-Revert Image: Revert to the original image.
-Save Image: Save the processed image to a file.
+👉Process Image: Apply transformations including:
+1)Rotate Left
+2)Rotate Right
+3)Mirror
+4)Convert to Black & White
+5)Sharpen
+6)Revert Image: Revert to the original image.
+7)Save Image: Save the processed image to a file.
 
 #Requirements
 
 
-To run this application, you need:
+👉To run this application, you need:
 
 Python 3.x
 Pillow library
@@ -31,11 +31,11 @@ Tkinter (comes pre-installed with Python)
 
 #Installation
 
-Install Python 3.x:
+👉Install Python 3.x:
 
 Download and install Python 3 from the official website: Python Downloads.
 
-Install Pillow:
+👉Install Pillow:
 
 Open a terminal or command prompt and run:
 
@@ -46,7 +46,7 @@ Download or Clone the Repository:
 Save the provided Python script (e.g., image_processing_app.py) to your local system.
 
 # Usage
-Run the Application:
+👉Run the Application:
 
 Open a terminal or command prompt, navigate to the directory containing the script, and run:
 
