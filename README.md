@@ -13,11 +13,17 @@ save the processed image. The app also features interactive buttons with visual 
 
 👉Process Image: Apply transformations including:
 1)Rotate Left
+
 2)Rotate Right
+
 3)Mirror
+
 4)Convert to Black & White
+
 5)Sharpen
+
 6)Revert Image: Revert to the original image.
+
 7)Save Image: Save the processed image to a file.
 
 #Requirements
@@ -26,7 +32,9 @@ save the processed image. The app also features interactive buttons with visual 
 👉To run this application, you need:
 
 Python 3.x
+
 Pillow library
+
 Tkinter (comes pre-installed with Python)
 
 #Installation
@@ -40,9 +48,13 @@ Download and install Python 3 from the official website: Python Downloads.
 Open a terminal or command prompt and run:
 
 sh
+
 Copy code
+
 pip install pillow
+
 Download or Clone the Repository:
+
 Save the provided Python script (e.g., image_processing_app.py) to your local system.
 
 # Usage
@@ -52,6 +64,7 @@ Open a terminal or command prompt, navigate to the directory containing the scri
 
 sh
 Copy code
+
 python image_processing_app.py
 
 
